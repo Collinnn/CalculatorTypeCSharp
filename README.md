@@ -9,8 +9,11 @@ Answer 58 min.
 
 ### Requirements
 To run this you need some version of
+
 Dotnet 8.0.129 or greater
+
 node v20.20.2 or greater
+
 npm 10.8.2 or greater
 
 These 3 values are what i was running, expecting compatilibilty with newer versions.
@@ -20,7 +23,9 @@ These 3 values are what i was running, expecting compatilibilty with newer versi
 Go into Calculator.Api and run
 
 ``` dotnet build ```
+
 ``` dotnet run ```
+
 Another terminal go into frontend and run
 
 ``` npm run dev```
